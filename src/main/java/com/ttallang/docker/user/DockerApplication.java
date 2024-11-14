@@ -1,4 +1,4 @@
-package com.ttallang.docker;
+package com.ttallang.docker.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
